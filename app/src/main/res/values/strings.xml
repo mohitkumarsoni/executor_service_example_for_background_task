@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Executor</string>
+    <string name="inactive">inactive</string>
+    <string name="thread_stop">Thread stop</string>
+    <string name="thread_start">Thread start</string>
+    <string name="click_to_test_ui">click to test ui</string>
+</resources>
